@@ -1,4 +1,4 @@
-package org.example.kyu9;
+package org.example.Codewars;
 
 import org.junit.Test;
 

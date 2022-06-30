@@ -6,7 +6,7 @@
  * Output :: "One".
  **/
 
-package org.example.kyu9;
+package org.example.Codewars;
 
 public class Converter {
     public static String switchItUp(int number) {

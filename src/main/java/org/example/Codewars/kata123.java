@@ -1,4 +1,4 @@
-package org.example.kyu9;
+package org.example.Codewars;
 
 public class kata123 {
     public String makeUnique(String input) {

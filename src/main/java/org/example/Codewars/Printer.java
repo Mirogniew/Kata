@@ -1,4 +1,4 @@
-package org.example.kyu9;
+package org.example.Codewars;
 
 /*
 In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which,

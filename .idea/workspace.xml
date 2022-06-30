@@ -50,12 +50,12 @@
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TrollsTest.FixedTests">
+  <component name="RunManager" selected="JUnit.EvenTest.exampleTest">
     <configuration name="BMITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.kyu9.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,28 +71,29 @@
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.kyu9.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.ConverterTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.ConverterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenTest.exampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.kyu9.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.PrinterTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
+      <option name="METHOD_NAME" value="exampleTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,12 +102,12 @@
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.kyu9.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.StopSnippingMyWordsTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.StopSnippingMyWordsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,12 +117,12 @@
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.kyu9.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.TrollsTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.TrollsTest" />
       <option name="METHOD_NAME" value="FixedTests" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EvenTest.exampleTest" />
         <item itemvalue="JUnit.TrollsTest.FixedTests" />
         <item itemvalue="JUnit.ConverterTest" />
         <item itemvalue="JUnit.BMITest.test1" />
         <item itemvalue="JUnit.StopSnippingMyWordsTest" />
-        <item itemvalue="JUnit.PrinterTest" />
       </list>
     </recent_temporary>
   </component>
