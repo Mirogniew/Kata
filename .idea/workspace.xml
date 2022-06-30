@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/PyramidTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/FindDifferent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/FindDifferentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,23 +54,7 @@
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PyramidTest.test1">
-    <configuration name="BMITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.BMITest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.FindDifferentTest">
     <configuration name="ConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
@@ -99,6 +82,21 @@
       <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
       <option name="METHOD_NAME" value="exampleTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDifferentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.FindDifferentTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindDifferentTest" />
         <item itemvalue="JUnit.PyramidTest.test1" />
         <item itemvalue="JUnit.EvenTest.exampleTest" />
         <item itemvalue="JUnit.TrollsTest.FixedTests" />
         <item itemvalue="JUnit.ConverterTest" />
-        <item itemvalue="JUnit.BMITest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,7 @@
       <workItem from="1656503374099" duration="2116000" />
       <workItem from="1656507766597" duration="1060000" />
       <workItem from="1656605479753" duration="6489000" />
-      <workItem from="1656621897028" duration="1104000" />
+      <workItem from="1656621897028" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -186,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656610995050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pyramid">
+      <created>1656623020720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656623020720</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +213,7 @@
     <MESSAGE value="Converter" />
     <MESSAGE value="Trolls" />
     <MESSAGE value="Even" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even" />
+    <MESSAGE value="Pyramid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pyramid" />
   </component>
 </project>
