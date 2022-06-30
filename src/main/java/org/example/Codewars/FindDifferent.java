@@ -1,3 +1,8 @@
+/***
+ * Every array has only one number that is different from the rest of array. Array always has at least 3 numbers in it.
+ * Find different number.
+ */
+
 package org.example.Codewars;
 
 public class FindDifferent {
