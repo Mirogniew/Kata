@@ -1,6 +1,6 @@
 package org.example.Codewars;
 
-/*
+/***
 In a factory a printer prints labels for boxes. For one kind of boxes the printer has to use colors which,
 for the sake of simplicity, are named with letters from a to m.
 The colors used by the printer are recorded in a control string.
@@ -19,7 +19,7 @@ printer_error(s) => "0/14"
 
 s="aaaxbbbbyyhwawiwjjjwwm"
 printer_error(s) => "8/22"
-*/
+***/
 public class Printer {
 
     public static String printerError(String s) {
@@ -36,7 +36,7 @@ public class Printer {
                 }
             }
         }
-        return wrong + "/" + count; // your code
+        return wrong + "/" + count;
     }
 
 }

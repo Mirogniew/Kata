@@ -1,6 +1,12 @@
+/***
+     Some internet Troll made a non funny joke and multiplied every letter in strings - Write a program to undo this
+     evil work. Remember, that some words supposed to have two of the same letter in a row (like Hello)
+ ***/
+
+
 package org.example.Codewars;
 
-public class kata123 {
+public class Kata123 {
     public String makeUnique(String input) {
         //Character.toUpperCase(h);
         input = input + "/";
@@ -26,11 +32,8 @@ public class kata123 {
             }
         }
         char[] temp2 = new char[j]; // tablica pomagająca w zmniejszeniu rozmiaru efektu końcowego
-        for (int i = 0; i < j; i++) {
-            temp2[i] = temp[i];
-        }
-        String result = new String(temp2);
-        return result;
+        System.arraycopy(temp, 0, temp2, 0, j);
+        return new String(temp2);
     }
 }
 

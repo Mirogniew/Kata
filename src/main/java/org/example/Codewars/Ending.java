@@ -1,3 +1,7 @@
+/***
+ * Check if string str ends with string ending
+ */
+
 package org.example.Codewars;
 
 public class Ending {

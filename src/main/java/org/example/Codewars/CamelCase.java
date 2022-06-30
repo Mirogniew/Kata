@@ -1,10 +1,15 @@
+/***
+ * Make a program, which will make all strings into proper camelCase.
+ */
+
+
 package org.example.Codewars;
 
-public class camelCase {
+public class CamelCase {
     public String camelCase(String camel) {
         String[] words = camel.split("[-_ ]");
         for (int i = 0; i < words.length; i++) {
-            char temp[] = words[i].toCharArray();
+            char[] temp = words[i].toCharArray();
             if (i == 0) {
                 temp[0] = Character.toLowerCase(temp[0]);
             } else {
