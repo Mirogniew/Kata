@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyu9/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/kyu9/ConverterTest.java" afterDir="false" />
+    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="Trolls">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kyu9/Trolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/kyu9/TrollsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ConverterTest">
+  <component name="RunManager" selected="JUnit.TrollsTest.FixedTests">
     <configuration name="BMITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
@@ -113,7 +112,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kata123Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TrollsTest.FixedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +121,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.kyu9" />
-      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.kata123Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="org.example.kyu9.TrollsTest" />
+      <option name="METHOD_NAME" value="FixedTests" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TrollsTest.FixedTests" />
         <item itemvalue="JUnit.ConverterTest" />
         <item itemvalue="JUnit.BMITest.test1" />
         <item itemvalue="JUnit.StopSnippingMyWordsTest" />
         <item itemvalue="JUnit.PrinterTest" />
-        <item itemvalue="JUnit.kata123Test" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <updated>1656503371940</updated>
       <workItem from="1656503374099" duration="2116000" />
       <workItem from="1656507766597" duration="1060000" />
-      <workItem from="1656605479753" duration="1892000" />
+      <workItem from="1656605479753" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656504078546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Converter">
+      <created>1656607500553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656607500553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +183,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation" />
+    <MESSAGE value="Converter" />
+    <MESSAGE value="Trolls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trolls" />
   </component>
 </project>
