@@ -1,6 +1,6 @@
 /***
-     Some internet Troll made a non funny joke and multiplied every letter in strings - Write a program to undo this
-     evil work. Remember, that some words supposed to have two of the same letter in a row (like Hello)
+ Some internet Troll made a non funny joke and multiplied every letter in strings - Write a program to undo this
+ evil work. Remember, that some words supposed to have two of the same letter in a row (like Hello)
  ***/
 
 

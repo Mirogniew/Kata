@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="" />
+    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/DuplicateEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/DuplicateEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Codewars/Kata123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/Kata123.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gniew/Desktop/tutorial_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gniew/Desktop/tutorial_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\test\java\org\example" />
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EndingTest">
+  <component name="RunManager" selected="JUnit.DuplicateEncoderTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="Kata" />
@@ -60,6 +65,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateEncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.DuplicateEncoderTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,22 +95,6 @@
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
       <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EndingTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenTest.exampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
-      <option name="METHOD_NAME" value="exampleTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EndingTest" />
+        <item itemvalue="JUnit.DuplicateEncoderTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.EndingTest" />
         <item itemvalue="JUnit.FindDifferentTest" />
         <item itemvalue="JUnit.PyramidTest.test1" />
-        <item itemvalue="JUnit.EvenTest.exampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +151,8 @@
       <workItem from="1656503374099" duration="2116000" />
       <workItem from="1656507766597" duration="1060000" />
       <workItem from="1656605479753" duration="6489000" />
-      <workItem from="1656621897028" duration="6065000" />
+      <workItem from="1656621897028" duration="6205000" />
+      <workItem from="1656675424845" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -205,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656628620452</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Know your problem!">
+      <created>1656628639412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656628639412</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,5 +244,6 @@
     <MESSAGE value="Ending" />
     <MESSAGE value="Know your problem!" />
     <option name="LAST_COMMIT_MESSAGE" value="Know your problem!" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
