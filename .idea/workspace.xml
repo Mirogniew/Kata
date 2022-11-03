@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="DuplicateEncoder">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/CamelCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/CamelCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/ConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/ConverterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/DuplicateEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/DuplicateEncoderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/EndingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/EndingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/EvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/EvenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/FindDifferentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/FindDifferentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/Kata123Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/Kata123Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/PrinterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/PyramidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/PyramidTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/StopSnippingMyWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/StopSnippingMyWordsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Codewars/TrollsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/TrollsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gniew/IdeaProjects/Kata",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gniew/IdeaProjects/Kata&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\test\java\org\example" />
       <recent name="C:\Users\gniew\IdeaProjects\Kata\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CamelCaseTest">
+  <component name="RunManager" selected="JUnit.EvenTest.exampleTest0">
     <configuration name="CamelCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
@@ -79,37 +63,6 @@
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
       <option name="MAIN_CLASS_NAME" value="org.example.Codewars.CamelCaseTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.ConverterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConverterTest.basicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.ConverterTest" />
-      <option name="METHOD_NAME" value="basicTests" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,13 +99,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EvenTest.exampleTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
+      <option name="METHOD_NAME" value="exampleTest0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenTest.exampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
+      <option name="METHOD_NAME" value="exampleTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EvenTest.exampleTest0" />
+        <item itemvalue="JUnit.EvenTest.exampleTest1" />
         <item itemvalue="JUnit.CamelCaseTest" />
         <item itemvalue="JUnit.EndingTest.test1" />
         <item itemvalue="JUnit.DuplicateEncoderTest.test1" />
-        <item itemvalue="JUnit.ConverterTest" />
-        <item itemvalue="JUnit.ConverterTest.basicTests" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +154,7 @@
       <workItem from="1656605479753" duration="6489000" />
       <workItem from="1656621897028" duration="6205000" />
       <workItem from="1656675424845" duration="2936000" />
-      <workItem from="1666429790012" duration="324000" />
+      <workItem from="1666429790012" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -241,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656679897754</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="clean up">
+      <created>1666430141120</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666430141120</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +260,8 @@
     <MESSAGE value="Ending" />
     <MESSAGE value="Know your problem!" />
     <MESSAGE value="DuplicateEncoder" />
-    <option name="LAST_COMMIT_MESSAGE" value="DuplicateEncoder" />
+    <MESSAGE value="clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
