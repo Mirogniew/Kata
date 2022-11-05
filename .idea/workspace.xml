@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/SumStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/SumStringsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="org.example.Codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.QueueTest">
+  <component name="RunManager" selected="JUnit.SumStringsTest.test3">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="Kata" />
@@ -76,7 +76,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -85,13 +85,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest.testEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumStringsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -100,14 +100,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
-      <option name="METHOD_NAME" value="testEmptyArray" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest.testSingleTillManyCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumStringsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -116,14 +116,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
-      <option name="METHOD_NAME" value="testSingleTillManyCustomers" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockPaperScissorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumStringsTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -132,19 +132,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.RockPaperScissorsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QueueTest" />
-        <item itemvalue="JUnit.QueueTest.testSingleTillManyCustomers" />
+        <item itemvalue="JUnit.SumStringsTest.test3" />
+        <item itemvalue="JUnit.SumStringsTest" />
+        <item itemvalue="JUnit.SumStringsTest.test1" />
+        <item itemvalue="JUnit.SumStringsTest.test" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.QueueTest.testEmptyArray" />
-        <item itemvalue="JUnit.RockPaperScissorsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,7 @@
       <workItem from="1667560709045" duration="19000" />
       <workItem from="1667585313835" duration="5087000" />
       <workItem from="1667592153300" duration="184000" />
-      <workItem from="1667661295302" duration="4645000" />
+      <workItem from="1667661295302" duration="9299000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -284,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667662459331</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Queue">
+      <created>1667666107916</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667666107916</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +323,8 @@
     <MESSAGE value="clean up" />
     <MESSAGE value="Digitize" />
     <MESSAGE value="Rock Paper Scissors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rock Paper Scissors" />
+    <MESSAGE value="Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
