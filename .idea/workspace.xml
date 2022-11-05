@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/RockPaperScissorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/QueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +62,21 @@
       <recent name="org.example.Codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RockPaperScissorsTest">
-    <configuration name="DigitizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.QueueTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -75,13 +85,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.DigitizeTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitizeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QueueTest.testEmptyArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +100,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.DigitizeTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
+      <option name="METHOD_NAME" value="testEmptyArray" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenTest.exampleTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QueueTest.testSingleTillManyCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
@@ -106,24 +116,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
-      <option name="METHOD_NAME" value="exampleTest0" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenTest.exampleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.EvenTest" />
-      <option name="METHOD_NAME" value="exampleTest1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.QueueTest" />
+      <option name="METHOD_NAME" value="testSingleTillManyCustomers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QueueTest" />
+        <item itemvalue="JUnit.QueueTest.testSingleTillManyCustomers" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.QueueTest.testEmptyArray" />
         <item itemvalue="JUnit.RockPaperScissorsTest" />
-        <item itemvalue="JUnit.EvenTest.exampleTest1" />
-        <item itemvalue="JUnit.EvenTest.exampleTest0" />
-        <item itemvalue="JUnit.DigitizeTest.test1" />
-        <item itemvalue="JUnit.DigitizeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +170,7 @@
       <workItem from="1667560709045" duration="19000" />
       <workItem from="1667585313835" duration="5087000" />
       <workItem from="1667592153300" duration="184000" />
-      <workItem from="1667661295302" duration="1044000" />
+      <workItem from="1667661295302" duration="4645000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
@@ -283,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667588593247</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Rock Paper Scissors">
+      <created>1667662459331</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667662459331</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +302,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="creation" />
     <MESSAGE value="Converter" />
     <MESSAGE value="Trolls" />
@@ -312,7 +314,8 @@
     <MESSAGE value="DuplicateEncoder" />
     <MESSAGE value="clean up" />
     <MESSAGE value="Digitize" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digitize" />
+    <MESSAGE value="Rock Paper Scissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rock Paper Scissors" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
