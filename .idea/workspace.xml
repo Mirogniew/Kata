@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d3f995-282e-471f-9503-593f6961976c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/SumStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/SumStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Codewars/CartesiaWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Codewars/CartesiaWalkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/gniew/IdeaProjects/school&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -62,16 +68,34 @@
       <recent name="org.example.Codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SumStringsTest.test3">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+  <component name="RunManager" selected="JUnit.CartesiaWalkTest">
+    <configuration name="CartesiaWalkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.CartesiaWalkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartesiaWalkTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Codewars" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.CartesiaWalkTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,22 +111,6 @@
       <option name="PACKAGE_NAME" value="org.example.Codewars" />
       <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumStringsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.Codewars" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Codewars.SumStringsTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CartesiaWalkTest" />
+        <item itemvalue="JUnit.CartesiaWalkTest.test1" />
         <item itemvalue="JUnit.SumStringsTest.test3" />
         <item itemvalue="JUnit.SumStringsTest" />
         <item itemvalue="JUnit.SumStringsTest.test1" />
-        <item itemvalue="JUnit.SumStringsTest.test" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +180,10 @@
       <workItem from="1667585313835" duration="5087000" />
       <workItem from="1667592153300" duration="184000" />
       <workItem from="1667661295302" duration="9299000" />
+      <workItem from="1676568229225" duration="169000" />
+      <workItem from="1676568431509" duration="89000" />
+      <workItem from="1676569412396" duration="1371000" />
+      <workItem from="1676648608248" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary="creation">
       <created>1656504078546</created>
